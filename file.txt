@@ -1,0 +1,6 @@
+Buhgalteria- 20
+Otdel kadrov - 5
+Otdel raboti s clientami - 10
+Pererabotka - 66
+Proizvodstvo - 270
+Upakovka - 80
